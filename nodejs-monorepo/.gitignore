@@ -1,0 +1,8 @@
+# Nix Cache
+.direnv
+
+# Dependencies
+node_modules
+
+# Environment Files
+**/*.env*
