@@ -8,7 +8,7 @@
         description = ''
           A full-stack web application build with Node.js v20, Fastify server, Vite and React based PWA.
         '';
-      }
-    }
-  }
+      };
+    };
+  };
 }
