@@ -3,6 +3,12 @@
 
   outputs = { self }: {
     templates = {
+      elixir = {
+        path = ./elixir;
+        description = ''
+          A basic elixir project template.
+        '';
+      },
       nodejs-monorepo = {
         path = ./nodejs-monorepo;
         description = ''
