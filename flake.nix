@@ -8,7 +8,7 @@
         description = ''
           A basic elixir project template.
         '';
-      },
+      }
       nodejs-monorepo = {
         path = ./nodejs-monorepo;
         description = ''
